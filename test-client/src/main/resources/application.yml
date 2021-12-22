@@ -1,0 +1,5 @@
+sms:
+  sdk:
+    url: http://localhost:8080/sms
+server:
+  port: 8181
